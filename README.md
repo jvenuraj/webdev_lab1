@@ -1,2 +1,2 @@
 # webdev_lab1
-creating test repo for demo use
+used in August of 2025 for lab 1 assignment
